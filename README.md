@@ -1,6 +1,8 @@
 ## Learning to Bootstrap for Entity Set Expansion
 Source code for [EMNLP 2019](https://www.emnlp-ijcnlp2019.org) paper: Learning to Bootstrap for Entity Set Expansion.
 
+### Required package:
+This project needs an external package provided by myself--yan_tools, you can find it [here](https://github.com/lingyongyan/yan_tools).
 
 ### Preprocess:
 - To accelarate, we pre-process and cache the dataset file first:
